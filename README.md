@@ -1,5 +1,4 @@
 ## Welcome to My Blog
-## MELİS EVLEN BENİMLE
 
 ### About Me
 
