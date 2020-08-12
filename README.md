@@ -7,5 +7,5 @@ I graduated from Yeditepe University as a biomedical engineer. I have been inter
 
 #### Contact
 
-[s.serdarhelli.gmail.com]
+s.serdarhelli.gmail.com
 
