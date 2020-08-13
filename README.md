@@ -29,7 +29,7 @@ I graduated from Yeditepe University as a biomedical engineer. I am working abou
 
 ## Contact 
 
-[s.serdarhelli@gmail.com](emailto:s.serdarhelli@gmail.com)
+[s.serdarhelli@gmail.com](mailto:s.serdarhelli@gmail.com)
 
 
 [Linkedin](https://www.linkedin.com/in/selahattin-serdar-helli-85bb201a3/?originalSubdomain=tr)
