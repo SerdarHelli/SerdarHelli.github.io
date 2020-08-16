@@ -6,7 +6,7 @@ I graduated from Yeditepe University as a biomedical engineer. I am working abou
 
 
 
-[ TEST ](/master/another-page.md)
+[ TEST ](/another-page.md)
 
 
 ### Machine Learning Projects
