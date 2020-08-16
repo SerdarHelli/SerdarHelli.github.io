@@ -6,7 +6,7 @@ I graduated from Yeditepe University as a biomedical engineer. I am working abou
 
 
 
-[ TEST ](SerdarHelli.github.io/blob/master/another-page.md)
+[ TEST ](/master/another-page.md)
 
 
 ### Machine Learning Projects
