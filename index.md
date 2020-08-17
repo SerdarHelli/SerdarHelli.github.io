@@ -7,7 +7,7 @@ I graduated from Yeditepe University as a biomedical engineer. I am working abou
 
 
 [ Poems ](/another-page.html)
-
+[Download My CV](SerdarHelli.github.io/blob/master/Documents/SERDAR_HELLI_CV.pdf)
 
 ### Machine Learning Projects
 
