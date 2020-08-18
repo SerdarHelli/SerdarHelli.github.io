@@ -1,10 +1,7 @@
 ## Welcome to My Blog
 
 
-<div id="titlebar-container-menu">
-  <a href="index.md">Home</a> &nbsp; &middot;&nbsp;
-  <a href="another-page.md">Poems</a> &nbsp; &middot;&nbsp;
-</div>
+
 
 
 
