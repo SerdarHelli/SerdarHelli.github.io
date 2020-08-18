@@ -2,9 +2,10 @@
 
 
 <div id="titlebar-container-menu">
-  <a href="index.md">home</a> &nbsp; &middot;&nbsp;
-  <a href="another-page.md">educational materials</a> &nbsp; &middot;&nbsp;
+  <a href="index.md">Home</a> &nbsp; &middot;&nbsp;
+  <a href="another-page.md">Poems</a> &nbsp; &middot;&nbsp;
 </div>
+
 
 
 ### About Me
