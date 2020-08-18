@@ -1,5 +1,12 @@
 ## Welcome to My Blog
 
+
+<div id="titlebar-container-menu">
+  <a href="index.md">home</a> &nbsp; &middot;&nbsp;
+  <a href="another-page.md">educational materials</a> &nbsp; &middot;&nbsp;
+</div>
+
+
 ### About Me
 
 I graduated from Yeditepe University as a biomedical engineer. I am working about machine learning area , deep learning neural networks, computer vision,data modelling, and numerical analysis.
