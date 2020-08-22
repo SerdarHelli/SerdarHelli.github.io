@@ -23,7 +23,6 @@ I graduated from Yeditepe University as a biomedical engineer. I am working abou
 - [Short-Term Forecasting COVID-19 Cases In Turkey Using Long Short-Term Memory Network](https://github.com/SerdarHelli/SHORT-TERM-FORECASTING-COVID-19-IN-TURKEY)
 
 
-
 ### Areas of Experties
 
 - Machine Learning, especially Deep Learning
@@ -32,6 +31,8 @@ I graduated from Yeditepe University as a biomedical engineer. I am working abou
 - Working knowledge of Python
 
 
+####  Certifications
+- ["Neural Networks and Deep Learning " an online non-credit course authorized by deeplearning.ai](https://www.coursera.org/account/accomplishments/certificate/SRLDV2BBHVL4)
 
 
 ## Contact 
