@@ -20,7 +20,7 @@ I graduated from Yeditepe University as a biomedical engineer. I am working abou
 - [Automatic Semantic Segmentation In One-Shot Panoramic Dental X-Ray Images Using Deep Learning with U-Net(Fully Connective Convolutional Neural Networks)](https://github.com/SerdarHelli/Segmentation-of-Teeth-in-Panoramic-X-ray-Image-Using-U-Net)
 - Medical Image Classification with VGG-19
 - Natural Language Process Text Classification On Posted Tweets Are About The Violence To Woman Or Not.
-- [Short-Term Forecasting COVID-19 Cases In Turkey Using Long Short-Term Memory Network](https://arxiv.org/abs/1309.2413)
+- [Short-Term Forecasting COVID-19 Cases In Turkey Using Long Short-Term Memory Network](https://arxiv.org/abs/2009.06343)
 
 
 ### Areas of Experties
