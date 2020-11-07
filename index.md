@@ -7,12 +7,16 @@
 
 ### About Me
 
-Machine learning/Deep learning, image processing,data science, computervision,software development ,and umerical analysis are the subjects that I have been studying for 2 years. In line with these subjects, my purposes are: to improve my abilities, skills, to learn new technologies, and to reach a successful career.
+Machine learning/Deep learning, image processing,data science, computer vision,software development ,and numerical analysis are the subjects that I have been studying for years. In line with these subjects, my purposes are: to improve my abilities, skills, to learn new technologies, and to reach a successful career.
 
 
 
 [Download My CV](Documents/Serdar_Helli_CV.pdf)
 
+
+### Education
+- Master's Degree , Data Science 2020 - , Yeditepe University
+- Bachelor of Science , Biomedical Engineering 2015-2020 , Yeditepe University 
 
 ### PROGRAMMING SKILS
 
