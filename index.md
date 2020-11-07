@@ -7,12 +7,21 @@
 
 ### About Me
 
-I graduated from Yeditepe University as a biomedical engineer. I am working about machine learning area , deep learning neural networks, computer vision,data modelling, and numerical analysis.
-
+Machine learning/Deep learning, image processing,data science, computervision,software development ,and umerical analysis are the subjects that I have been studying for 2 years. In line with these subjects, my purposes are: to improve my abilities, skills, to learn new technologies, and to reach a successful career.
 
 
 
 [Download My CV](Documents/Serdar_Helli_CV.pdf)
+
+
+### PROGRAMMING SKILS
+
+-Python (Advanced); Numpy, Keras,Tensorflow,Pandas, Stats.Model, Scikit-Learn, OpenCV, PIL libraries
+-SQL(Intermediate)
+-HTML5 and CSS (Intermediate)
+-C++(Intermediate)
+
+
 
 ### Machine Learning Projects
 
@@ -28,12 +37,6 @@ I graduated from Yeditepe University as a biomedical engineer. I am working abou
 - [S.Serdar HELLİ,Çağkan DEMİRCİ,Onur ÇOBAN, Andaç HAMAMCI."Short-Term Forecasting COVID-19 Cases In Turkey Using Long Short-Term Memory Network", 2020 Medical Technologies Congress (TIPTEKNO). IEEE, 2020 (accepted)](https://arxiv.org/abs/2009.06343)
 
 
-### Areas of Experties
-
-- Machine Learning, especially Deep Learning
-- Numerical Analysis
-- Image Processing - Computer Vision
-- Working knowledge of Python
 
 
 ####  Certifications
@@ -47,6 +50,4 @@ I graduated from Yeditepe University as a biomedical engineer. I am working abou
 
 [Linkedin](https://www.linkedin.com/in/selahattin-serdar-helli-85bb201a3/?originalSubdomain=tr)
 
-## Social Media
 
-[My Twitter Account](https://twitter.com/epitaph145)
