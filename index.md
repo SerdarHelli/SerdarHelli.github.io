@@ -16,10 +16,10 @@ Machine learning/Deep learning, image processing,data science, computervision,so
 
 ### PROGRAMMING SKILS
 
-- Python (Advanced); Numpy, Keras,Tensorflow,Pandas, Stats.Model, Scikit-Learn, OpenCV, PIL libraries
-- SQL(Intermediate)
-- HTML5 and CSS (Intermediate)
-- C++(Intermediate)
+- Python ; Numpy, Keras,Tensorflow,Pandas, Stats.Model, Scikit-Learn, OpenCV, PIL libraries
+- SQL
+- HTML5 and CSS 
+- C++
 
 
 
