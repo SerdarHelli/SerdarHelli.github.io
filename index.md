@@ -33,7 +33,7 @@ Machine learning/Deep learning, image processing,data science, computer vision,s
 - Medical Image Classification with Deep Learning Methods : Sex Estimation with X-Ray Images,Third Molar Teeth Classification with X-Ray Images...
 - Natural Language Process Text Classification On Posted Tweets Are About The Violence To Woman Or Not
 - Automatation Drawing Merchant Lines And Angles With Artificial Intelligence
-- Django Study  Schedule Modal
+- [Django Study  Schedule Modal](https://github.com/SerdarHelli/Django_Study)
 
 
 ### Publications 
