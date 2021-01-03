@@ -40,7 +40,7 @@ Machine learning/Deep learning, image processing,data science, computer vision,s
 
 ### Publications 
 
-- [S.Serdar HELLİ,Çağkan DEMİRCİ,Onur ÇOBAN, Andaç HAMAMCI."Short-Term Forecasting COVID-19 Cases In Turkey Using Long Short-Term Memory Network", 2020 Medical Technologies Congress (TIPTEKNO). IEEE, 2020 (accepted)](https://arxiv.org/abs/2009.06343)
+- [S.Serdar HELLİ,Çağkan DEMİRCİ,Onur ÇOBAN, Andaç HAMAMCI."Short-Term Forecasting COVID-19 Cases In Turkey Using Long Short-Term Memory Network", 2020 Medical Technologies Congress (TIPTEKNO). IEEE, 2020 ](https://ieeexplore.ieee.org/document/9299235)
 
 
 
