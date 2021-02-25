@@ -18,8 +18,7 @@ Machine learning/Deep learning, image processing,data science, computer vision,s
 - Master's Degree , Data Science 2020 - , Yeditepe University
 - Bachelor of Science , Biomedical Engineering 2015-2020 , Yeditepe University 
 
-### PROGRAMMING SKILS
-
+### PROGRAMMING 
 - Python ; Numpy, Keras,Tensorflow,Pandas, Stats.Model, Scikit-Learn, OpenCV, PIL libraries
 - SQL
 - HTML5 and CSS 
