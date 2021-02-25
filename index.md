@@ -25,8 +25,8 @@ Machine learning/Deep learning, image processing,data science, computer vision,s
 - SQL
 - HTML5 and CSS 
 - C++
-- C#
-- Ext Net
+- C# , ExtNet
+
 
 
 
