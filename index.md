@@ -12,7 +12,6 @@ Machine learning/Deep learning, image processing,data science, computer vision,s
 
 
 
-[Download My CV](Documents/Serdar_Helli_CV.pdf)
 
 
 ### Education
