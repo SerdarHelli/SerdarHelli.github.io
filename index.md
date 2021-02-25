@@ -9,7 +9,6 @@
 
 Machine learning/Deep learning, image processing,data science, computer vision,software development ,and numerical analysis are the subjects that I have been studying for years. In line with these subjects, my purposes are: to improve my abilities, skills, to learn new technologies, and to reach a successful career.
 
-[Actually , I am hardworking](https://youtu.be/qjMEomNaSe8)
 
 
 
@@ -26,6 +25,8 @@ Machine learning/Deep learning, image processing,data science, computer vision,s
 - SQL
 - HTML5 and CSS 
 - C++
+- C#
+- Ext Net
 
 
 
