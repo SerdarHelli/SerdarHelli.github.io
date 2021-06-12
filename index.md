@@ -23,7 +23,8 @@ Machine learning/Deep learning, image processing,data science, computer vision,s
 - SQL
 - HTML5 and CSS 
 - C++
-- C# , ExtNet
+- C# 
+- JavaScript - Always Not Enough :) 
 
 
 
