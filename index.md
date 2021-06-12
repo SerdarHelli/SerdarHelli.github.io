@@ -18,13 +18,6 @@ Machine learning/Deep learning, image processing,data science, computer vision,s
 - Master's Degree , Data Science 2020 - , Yeditepe University
 - Bachelor of Science , Biomedical Engineering 2015-2020 , Yeditepe University 
 
-### PROGRAMMING 
-- Python ; Numpy, Keras,Tensorflow,Pandas, Stats.Model, Scikit-Learn, OpenCV, PIL libraries
-- SQL
-- HTML5 and CSS 
-- C++
-- C# 
-- JavaScript - Always Not Enough :) 
 
 
 
@@ -32,10 +25,11 @@ Machine learning/Deep learning, image processing,data science, computer vision,s
 ### Projects
 
 - [Automatic Semantic Segmentation In One-Shot Panoramic Dental X-Ray Images Using Deep Learning with U-Net(Fully Connective Convolutional Neural Networks)](https://github.com/SerdarHelli/Segmentation-of-Teeth-in-Panoramic-X-ray-Image-Using-U-Net)
-- Medical Image Classification with Deep Learning Methods : Sex Estimation with X-Ray Images,Third Molar Teeth Classification with X-Ray Images...
+- Sex Estimation with X-Ray Images,,Third Molar Teeth Classification with X-Ray Images By Using Xception on Unbalance Data
 - Natural Language Process Text Classification On Posted Tweets Are About The Violence To Woman Or Not
 - Automatation Drawing Merchant Lines And Angles With Artificial Intelligence
-- [Django Study  Schedule Modal](https://github.com/SerdarHelli/Django_Study)
+- 3-D Brain Image Reconstruction with Adversial Auto Encoder
+
 
 
 ### Publications 
