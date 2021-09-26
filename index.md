@@ -35,7 +35,7 @@ Machine learning/Deep learning, image processing,data science, computer vision,s
 ### Publications 
 
 - [S.Serdar HELLİ,Çağkan DEMİRCİ,Onur ÇOBAN, Andaç HAMAMCI."Short-Term Forecasting COVID-19 Cases In Turkey Using Long Short-Term Memory Network", 2020 Medical Technologies Congress (TIPTEKNO). IEEE, 2020 ](https://ieeexplore.ieee.org/document/9299235)
--  [Automatic Semantic Segmentation In One-Shot Panoramic Dental X-Ray Images Using Deep Learning with U-Net(Fully Connective Convolutional Neural Networks)](https://github.com/SerdarHelli/Segmentation-of-Teeth-in-Panoramic-X-ray-Image-Using-U-Net) Düzce Bilim ve Teknoloji Dergisi (Accepted)
+-  [Automatic Semantic Segmentation In One-Shot Panoramic Dental X-Ray Images Using Deep Learning with U-Net(Fully Connective Convolutional Neural Networks Düzce Bilim ve Teknoloji Dergisi (Accepted)](https://github.com/SerdarHelli/Segmentation-of-Teeth-in-Panoramic-X-ray-Image-Using-U-Net)  
 
 
 
