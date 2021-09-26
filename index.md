@@ -29,12 +29,13 @@ Machine learning/Deep learning, image processing,data science, computer vision,s
 - Natural Language Process Text Classification On Posted Tweets Are About The Violence To Woman Or Not
 - Automatation Drawing Merchant Lines And Angles With Artificial Intelligence
 - 3-D Brain Image Reconstruction with Adversial Auto Encoder
-
+-Short-Term Forecasting COVID-19 Cases In Turkey Using Long Short-Term Memory Network
 
 
 ### Publications 
 
 - [S.Serdar HELLİ,Çağkan DEMİRCİ,Onur ÇOBAN, Andaç HAMAMCI."Short-Term Forecasting COVID-19 Cases In Turkey Using Long Short-Term Memory Network", 2020 Medical Technologies Congress (TIPTEKNO). IEEE, 2020 ](https://ieeexplore.ieee.org/document/9299235)
+-  [Automatic Semantic Segmentation In One-Shot Panoramic Dental X-Ray Images Using Deep Learning with U-Net(Fully Connective Convolutional Neural Networks)](https://github.com/SerdarHelli/Segmentation-of-Teeth-in-Panoramic-X-ray-Image-Using-U-Net) Düzce Bilim ve Teknoloji Dergisi (Accepted)
 
 
 
