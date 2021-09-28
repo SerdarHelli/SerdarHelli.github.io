@@ -29,7 +29,7 @@ Machine learning/Deep learning, image processing,data science, computer vision,s
 - Natural Language Process Text Classification On Posted Tweets Are About The Violence To Woman Or Not
 - Automatation Drawing Merchant Lines And Angles With Artificial Intelligence
 - 3-D Brain Image Reconstruction with Adversial Auto Encoder
--Short-Term Forecasting COVID-19 Cases In Turkey Using Long Short-Term Memory Network
+- Short-Term Forecasting COVID-19 Cases In Turkey Using Long Short-Term Memory Network
 
 
 ### Publications 
