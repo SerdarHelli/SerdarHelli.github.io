@@ -27,9 +27,9 @@ Machine learning/Deep learning, image processing,data science, computer vision,s
 - [Automatic Semantic Segmentation In One-Shot Panoramic Dental X-Ray Images Using Deep Learning with U-Net(Fully Connective Convolutional Neural Networks)](https://github.com/SerdarHelli/Segmentation-of-Teeth-in-Panoramic-X-ray-Image-Using-U-Net)
 - Sex Estimation and Third Molar Teeth Classification with X-Ray Images By Using Xception on Unbalance Data
 - Natural Language Process Text Classification On Posted Tweets Are About The Violence To Woman Or Not
-- Automatation Drawing Merchant Lines And Angles With Artificial Intelligence
+- [Automatation Drawing Merchant Lines And Angles With Artificial Intelligence](https://github.com/ImagingYeditepe/Automatation-Drawing-Merchant-Lines-And-Angles)
 - 3-D Brain Image Reconstruction with Adversial Auto Encoder
-- Short-Term Forecasting COVID-19 Cases In Turkey Using Long Short-Term Memory Network
+- [Short-Term Forecasting COVID-19 Cases In Turkey Using Long Short-Term Memory Network](https://ieeexplore.ieee.org/document/9299235)
 
 
 ### Publications 
