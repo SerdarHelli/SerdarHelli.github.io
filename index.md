@@ -25,7 +25,7 @@ Machine learning/Deep learning, image processing,data science, computer vision,s
 ### Projects
 
 - [Automatic Semantic Segmentation In One-Shot Panoramic Dental X-Ray Images Using Deep Learning with U-Net(Fully Connective Convolutional Neural Networks)](https://github.com/SerdarHelli/Segmentation-of-Teeth-in-Panoramic-X-ray-Image-Using-U-Net)
-- Sex Estimation with X-Ray Images,,Third Molar Teeth Classification with X-Ray Images By Using Xception on Unbalance Data
+- Sex Estimation and Third Molar Teeth Classification with X-Ray Images By Using Xception on Unbalance Data
 - Natural Language Process Text Classification On Posted Tweets Are About The Violence To Woman Or Not
 - Automatation Drawing Merchant Lines And Angles With Artificial Intelligence
 - 3-D Brain Image Reconstruction with Adversial Auto Encoder
