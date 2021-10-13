@@ -38,7 +38,8 @@ Machine learning/Deep learning, computer vision,data science, ,software developm
 -  [Automatic Semantic Segmentation In One-Shot Panoramic Dental X-Ray Images Using Deep Learning with U-Net(Fully Connective Convolutional Neural Networks - Düzce Bilim ve Teknoloji Dergisi (Accepted)](https://github.com/SerdarHelli/Segmentation-of-Teeth-in-Panoramic-X-ray-Image-Using-U-Net)  
 
 ### Games - I am currently learning making games. 
-- [Solor System](https://serdarhelli.github.io/SolorSystem/)
+- [Solor System](https://serdarhelli.github.io/SolorSystem/)  or [Link](https://serdarhelli.itch.io/solor-system)
+- [2DShooter](https://serdarhelli.itch.io/2dshooter)
 
 
 ####  Certifications
