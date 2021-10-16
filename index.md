@@ -45,6 +45,7 @@ Machine learning/Deep learning, computer vision,data science, ,software developm
 ####  Certifications
 - ["Neural Networks and Deep Learning " an online non-credit course authorized by deeplearning.ai](https://www.coursera.org/account/accomplishments/certificate/SRLDV2BBHVL4)
 
+- ["Game Design and Development 1: 2D Shooter" an online non-credit course authorized by Michigan State University](https://www.coursera.org/account/accomplishments/certificate/9ABRV8CG8PRD) 
 
 ## Contact 
 
