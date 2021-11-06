@@ -7,8 +7,7 @@
 
 ### About Me
 
-Machine learning/Deep learning, computer vision,data science, ,software development ,and numerical analysis are the subjects that I have been studying for years. In line with these subjects, my purposes are: to improve my abilities, skills, to learn new technologies, and to reach a successful career.
-
+I'm S.Serdar Helli aka Space Cowboy. I graduated from Yeditepe University as a biomedical engineer. I am currently a Master's degree student in Data Science.I am a person who loves to research ,embark on new adventures, and create new things. <strong>"Am I a hero? I really can't say but yes..."</strong>
 
 
 
