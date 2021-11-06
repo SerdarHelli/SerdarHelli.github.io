@@ -7,7 +7,9 @@
 
 ### About Me
 
-I'm S.Serdar Helli aka Space Cowboy. I graduated from Yeditepe University as a biomedical engineer. I am currently a Master's degree student in Data Science.I am a person who loves to research ,embark on new adventures, and create new things. <strong>"Am I a hero? I really can't say but yes..."</strong>
+I'm S.Serdar Helli also known as Space Cowboy. "Am I a hero? I really can't say but yes...".
+
+I graduated from Yeditepe University as a biomedical engineer. I am currently a Master's degree student in Data Science.I am a person who loves to research ,embark on new adventures, and create new things.I am passionate about AI ,Medical Imaging. Cheers!
 
 
 
