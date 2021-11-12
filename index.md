@@ -38,7 +38,7 @@ I graduated from Yeditepe University as a biomedical engineer. I am currently a 
 
 
 ### [My NFT Collection Core Neuro Art](https://opensea.io/collection/coreneuroart)
- <img src="https://github.com/SerdarHelli/SerdarHelli.github.io/blob/master/assets/images/coreneuroart.gif" alt="GIF" >
+ <img src="https://github.com/SerdarHelli/SerdarHelli.github.io/blob/master/assets/images/coreneuroart.gif" width="600" alt="GIF" >
 
 ### Games - I am currently learning making games. 
 - [Solor System](https://serdarhelli.github.io/SolorSystem/)  or [Link](https://serdarhelli.itch.io/solor-system)
