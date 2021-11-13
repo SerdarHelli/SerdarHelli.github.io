@@ -48,12 +48,13 @@ I graduated from Yeditepe University as a biomedical engineer. I am currently a 
 ### Games  
 - [Solor System](https://serdarhelli.github.io/SolorSystem/)  or [Link](https://serdarhelli.itch.io/solor-system)
 - [2DShooter](https://serdarhelli.itch.io/2dshooter)
-- 
+
 ## Contact 
 
-[s.serdarhelli@gmail.com](mailto:s.serdarhelli@gmail.com)
+-[s.serdarhelli@gmail.com](mailto:s.serdarhelli@gmail.com)
 
+-[LinkTree](https://linktr.ee/SerdarHelli)
 
-[Linkedin](https://www.linkedin.com/in/selahattin-serdar-helli-85bb201a3/?originalSubdomain=tr)
+-[Linkedin](https://www.linkedin.com/in/selahattin-serdar-helli-85bb201a3/?originalSubdomain=tr)
 
 
