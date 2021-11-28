@@ -26,7 +26,7 @@ I graduated from Yeditepe University as a biomedical engineer. I am currently a 
 
 - [Automatic Semantic Segmentation In One-Shot Panoramic Dental X-Ray Images Using Deep Learning with U-Net(Fully Connective Convolutional Neural Networks)](https://github.com/SerdarHelli/Segmentation-of-Teeth-in-Panoramic-X-ray-Image-Using-U-Net)
 - Sex Estimation and Third Molar Teeth Classification with X-Ray Images By Using Xception on Unbalance Data
-- [Automatation Drawing Merchant Lines And Angles With Artificial Intelligence](https://github.com/ImagingYeditepe/Automatation-Drawing-Merchant-Lines-And-Angles)
+- Automation Drawing Merchant Lines And Angle With Artificial Intelligence
 - 3-D Brain Image Reconstruction with Adversial Auto Encoder
 - [Short-Term Forecasting COVID-19 Cases In Turkey Using Long Short-Term Memory Network](https://ieeexplore.ieee.org/document/9299235)
 
