@@ -34,7 +34,7 @@ I graduated from Yeditepe University as a biomedical engineer. I am currently a 
 ### Publications 
 
 - [S.Serdar HELLİ,Çağkan DEMİRCİ,Onur ÇOBAN, Andaç HAMAMCI."Short-Term Forecasting COVID-19 Cases In Turkey Using Long Short-Term Memory Network", 2020 Medical Technologies Congress (TIPTEKNO). IEEE, 2020 ](https://ieeexplore.ieee.org/document/9299235)
--  [Automatic Semantic Segmentation In One-Shot Panoramic Dental X-Ray Images Using Deep Learning with U-Net(Fully Connective Convolutional Neural Networks - Düzce Bilim ve Teknoloji Dergisi (Accepted)](https://github.com/SerdarHelli/Segmentation-of-Teeth-in-Panoramic-X-ray-Image-Using-U-Net)  
+-  [Automatic Semantic Segmentation In One-Shot Panoramic Dental X-Ray Images Using Deep Learning with U-Net(Fully Connective Convolutional Neural Networks - Düzce Bilim ve Teknoloji Dergisi (Accepted)](https://dergipark.org.tr/tr/pub/dubited/issue/68307/950568)  
 
 
 ### [My NFT Collection Core Neuro Art](https://opensea.io/collection/coreneuroart)
