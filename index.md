@@ -29,6 +29,7 @@ I graduated from Yeditepe University as a biomedical engineer. I am currently a 
 - Automation Drawing Merchant Lines And Angle With Artificial Intelligence
 - 3-D Brain Image Reconstruction with Adversial Auto Encoder
 - [Short-Term Forecasting COVID-19 Cases In Turkey Using Long Short-Term Memory Network](https://ieeexplore.ieee.org/document/9299235)
+- MRZ Passport Scanner Using Deep Learning Methods for IOT system 
 
 
 ### Publications 
