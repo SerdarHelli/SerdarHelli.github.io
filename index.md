@@ -40,15 +40,7 @@ I graduated from Yeditepe University as a biomedical engineer. I am currently a 
 ### [My NFT Collection Core Neuro Art](https://opensea.io/collection/coreneuroart)
 
 
-####  Certifications
-- ["Neural Networks and Deep Learning " an online non-credit course authorized by deeplearning.ai](https://www.coursera.org/account/accomplishments/certificate/SRLDV2BBHVL4)
 
-- ["Game Design and Development 1: 2D Shooter" an online non-credit course authorized by Michigan State University](https://www.coursera.org/account/accomplishments/certificate/9ABRV8CG8PRD) 
-
-
-#### Games  
-- [Solor System](https://serdarhelli.github.io/SolorSystem/)  or [Link](https://serdarhelli.itch.io/solor-system)
-- [2DShooter](https://serdarhelli.itch.io/2dshooter)
 
 #### Contact 
 - [s.serdarhelli@gmail.com](mailto:s.serdarhelli@gmail.com)
