@@ -27,7 +27,7 @@ I graduated from Yeditepe University as a biomedical engineer. I am currently a 
 - [Automatic Semantic Segmentation In One-Shot Panoramic Dental X-Ray Images Using Deep Learning with U-Net(Fully Connective Convolutional Neural Networks)](https://github.com/SerdarHelli/Segmentation-of-Teeth-in-Panoramic-X-ray-Image-Using-U-Net)
 - Sex Estimation and Third Molar Teeth Classification with X-Ray Images By Using Xception on Unbalance Data
 - [Measurement of Merchant Angles is a fully automated method to measure Patellar Congruence Angle and Tilt Angle on Merchant Knee radiographs, employing CNN landmark localizers](https://github.com/SerdarHelli/Knee-Merchant-Landmark-Detection)
-- [3-D Brain Image Reconstruction with Adversial Auto Encoder and GAN](https://huggingface.co/spaces/SerdarHelli/Brain-MR-Image-Generation-with-StyleGAN)
+- [3-D Brain Image Reconstruction with Adversarial Auto Encoder and GAN](https://huggingface.co/spaces/SerdarHelli/Brain-MR-Image-Generation-with-StyleGAN)
 - [Short-Term Forecasting COVID-19 Cases In Turkey Using Long Short-Term Memory Network](https://ieeexplore.ieee.org/document/9299235)
 - [MRZ Passport Scanner-Reader Using Deep Learning Methods for IOT system](https://github.com/SerdarHelli/MRZ_Passport_Reader_From_Image)
 
