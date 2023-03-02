@@ -16,7 +16,7 @@ I graduated from Yeditepe University as a biomedical engineer. I am currently a 
 
 
 ### Education
-- Master's Degree , Data Science 2020 - , Yeditepe University
+- Master's Degree , Data Science 2021 - , Yeditepe University
 - Bachelor of Science , Biomedical Engineering 2015-2020 , Yeditepe University 
 
 
@@ -29,9 +29,9 @@ I graduated from Yeditepe University as a biomedical engineer. I am currently a 
 - [Measurement of Merchant Angles is a fully automated method to measure Patellar Congruence Angle and Tilt Angle on Merchant Knee radiographs, employing CNN landmark localizers](https://github.com/SerdarHelli/Knee-Merchant-Landmark-Detection)
 - [3-D Brain Image Reconstruction with Adversarial Auto Encoder and GAN](https://huggingface.co/spaces/SerdarHelli/Brain-MR-Image-Generation-with-StyleGAN)
 - [Short-Term Forecasting COVID-19 Cases In Turkey Using Long Short-Term Memory Network](https://ieeexplore.ieee.org/document/9299235)
-- [MRZ Passport Scanner-Reader Using Deep Learning Methods for IOT system](https://github.com/SerdarHelli/MRZ_Passport_Reader_From_Image
+- [MRZ Passport Scanner-Reader Using Deep Learning Methods for IOT system](https://github.com/SerdarHelli/MRZ_Passport_Reader_From_Image)
 - [Semantic Image Synthesis Dental Panoramic](https://github.com/SerdarHelli/SemanticImageSynthesisDentalPanoramic)
-- 2D to 3D Object Generation using 3DLDM
+- 2D to 3D Object Generation using 3D Latent Diffusion Models
 
 
 
@@ -39,7 +39,7 @@ I graduated from Yeditepe University as a biomedical engineer. I am currently a 
 
 - [S.Serdar HELLİ,Çağkan DEMİRCİ,Onur ÇOBAN, Andaç HAMAMCI."Short-Term Forecasting COVID-19 Cases In Turkey Using Long Short-Term Memory Network", 2020 Medical Technologies Congress (TIPTEKNO). IEEE, 2020 ](https://ieeexplore.ieee.org/document/9299235)
 - [Helli, S. & Hamamcı, A. (2022). Tooth Instance Segmentation on Panoramic Dental Radiographs Using U-Nets and Morphological Processing . Düzce Üniversitesi Bilim ve Teknoloji Dergisi , 10 (1) , 39-50 . DOI: 10.29130/dubited.950568](https://dergipark.org.tr/tr/pub/dubited/issue/68307/950568)  
-- Forecasting Energy Consumption Using Deep Learning in Smart Cities [ICAIoT 2022]
+- Forecasting Energy Consumption Using Deep Learning in Smart Cities -ICAIoT 2022
 
 
 ### [My NFT Collection Core Neuro Art . It was generated using AI](https://opensea.io/collection/coreneuroart)
@@ -51,6 +51,6 @@ I graduated from Yeditepe University as a biomedical engineer. I am currently a 
 - [LinkTree](https://linktr.ee/SerdarHelli)
 
 - [Linkedin](https://www.linkedin.com/in/selahattin-serdar-helli-85bb201a3/?originalSubdomain=tr)
-- 
+
 
 <a href="https://clustrmaps.com/site/1bprt"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=jSpq3v2ECzLoFfFfBxI6b1_nP1vsD587K0WIqXjZM50&cl=ffffff" /></a>
