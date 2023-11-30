@@ -39,8 +39,10 @@ I graduated from Yeditepe University as a biomedical engineer. I am currently a 
 
 - [S.Serdar HELLİ,Çağkan DEMİRCİ,Onur ÇOBAN, Andaç HAMAMCI."Short-Term Forecasting COVID-19 Cases In Turkey Using Long Short-Term Memory Network", 2020 Medical Technologies Congress (TIPTEKNO). IEEE, 2020 ](https://ieeexplore.ieee.org/document/9299235)
 - [Helli, S. & Hamamcı, A. (2022). Tooth Instance Segmentation on Panoramic Dental Radiographs Using U-Nets and Morphological Processing . Düzce Üniversitesi Bilim ve Teknoloji Dergisi , 10 (1) , 39-50 . DOI: 10.29130/dubited.950568](https://dergipark.org.tr/tr/pub/dubited/issue/68307/950568)  
-- Forecasting Energy Consumption Using Deep Learning in Smart Cities -ICAIoT 2022
-
+- Resume Matching Framework via Ranking and Sorting Using NLP and Deep LearningResume Matching Framework via Ranking and Sorting Using NLP and Deep LearningIEEE - 2023 8th International Conference on Computer Science and Engineering (UBMK) · Oct 24, 2023
+- A Comparison of Time-based Models for Multimodal Emotion RecognitionA Comparison of Time-based Models for Multimodal Emotion Recognition IEEE - 2023 Innovations in Intelligent Systems and Applications Conference (ASYU) · Oct 11, 2023
+- Smart Journey in Istanbul: A Mobile Application in Smart Cities for Traffic Estimation by Harnessing Time SeriesSmart Journey in Istanbul: A Mobile Application in Smart Cities for Traffic Estimation by Harnessing Time Series IEEE - 2023 Innovations in Intelligent Systems and Applications Conference (ASYU) · Oct 11, 2023
+- Forecasting Energy Consumption Using Deep Learning in Smart Cities.Forecasting Energy Consumption Using Deep Learning in Smart Cities. IEEE - 2022 International Conference on Artificial Intelligence of Things (ICAIoT) · Sep 1, 2022
 
 ### [My NFT Collection Core Neuro Art . It was generated using AI](https://opensea.io/collection/coreneuroart)
 
